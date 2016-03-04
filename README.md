@@ -8,13 +8,13 @@ Decoding programs/src/examples/..
 
 DTMFDetector.java
 
-GoertzelDTMF.java
-
 GoertzelDetector.java
 
 GoertzelMultiDetector.java 
 
 QTMFHandler.java 
+
+Triangulator.java
 
 TTMFDetectionFilter.java 
 
