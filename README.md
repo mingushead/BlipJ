@@ -24,6 +24,6 @@ TTMFDetector.java
 
 TTMFHandler.java 
 
-I built the encoding program from scratch.
+The files relating to the encoding program were entirely my own contribution.
 
 
